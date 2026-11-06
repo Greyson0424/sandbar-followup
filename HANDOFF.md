@@ -36,7 +36,7 @@ The website processes selected files in the browser. It does not store the uploa
 - **Standard:** a real conversation without an urgent request.
 - **Complete—no follow-up:** the requested demo is already booked; do not send another sales message.
 
-## When a result is wrong
+## What happens when it gets one wrong
 
 - Do not send the suggested message.
 - The person who had the conversation confirms what was promised.
@@ -44,19 +44,24 @@ The website processes selected files in the browser. It does not store the uploa
 - If a promise is due before Erin's next Tuesday or Thursday, Owen or Nadia completes it directly instead of waiting.
 - Record lasting corrections in the rules with the date and decision-maker.
 
-## Ownership
+## Who looks after it after handoff
 
 - **Erin:** primary operator, matching, consent checks, existing-customer checks and corrections.
 - **Owen:** downloads the event export and completes his calls and messages from his phone.
 - **Nadia:** accountable for the outcome, handles her contacts and acts as backup when Erin is unavailable.
 - **Technical maintenance:** still needs a permanent owner. Sam may help in an emergency but is not the long-term plan.
 
-## Cost and limits
+## What it costs to run
 
 - This static version has no per-run AI fee. Hosting terms should be checked before long-term client use.
 - Nadia said about $50 per show is acceptable; $100 every month is not.
 - The target is one to two staff hours per show, but that must be confirmed by timing a complete real run.
+
+## What it cannot fix
+
 - It cannot recover unrecorded conversations, see missing sent mail, detect every existing customer or historical unsubscribe without those lists, send email, or prove revenue at day 30.
+- It cannot force Nadia to provide late cards, force Owen or Nadia to complete a promised call, or decide which trade show to discontinue from one show alone.
+- It cannot permanently save Done or Wrong actions in this version because it has no shared database or approved Google Workspace connection.
 - **Mark reviewed** is intentionally temporary. Running the files again rebuilds the full evidence record.
 
 ## Developer maintenance
