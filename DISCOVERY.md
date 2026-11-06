@@ -1,6 +1,6 @@
-# What we learned
+# Discovery summary
 
-## The problem in our own words
+## Problem summary
 
 Nadia Comeau, Sandbar Scheduling's CEO, spends about $9,000 on each of four trade shows a year. After a show, she cannot reliably tell whether Sandbar followed up with everyone it spoke to, how many demos or trials came from the show, or whether one show performs better than another.
 
