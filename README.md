@@ -21,6 +21,8 @@ https://sandbar-followup-greyson-sprint3.greysonpmalabanan.chatgpt.site
 - `build-browser-engine.mjs` — builds the browser engine
 - `dist/index.html` — hosted interface
 - `dist/engine.js` — generated browser engine
+- `DISCOVERY.md` — the problem in our own words and what the interviews established
+- `interviews/` — the four original interview transcripts
 - `HANDOFF.md` — operating and maintenance handoff
 - `THURSDAY-FRIDAY-LOG.md` — paste-ready risk log
 
@@ -31,5 +33,5 @@ node build-browser-engine.mjs
 node --check sandbar-processor.js
 ```
 
-See [HANDOFF.md](HANDOFF.md) for the operating process, ownership, cost, errors and limits.
+Start with [DISCOVERY.md](DISCOVERY.md) for the problem and interview findings. See [HANDOFF.md](HANDOFF.md) for the operating process, ownership, cost, errors and limits.
 
